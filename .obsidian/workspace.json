@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "fa044eeac6475d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "82bbfc2d62ed24ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775aaa4d9a7c4c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Transferts/JSP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSP"
+            }
+          },
+          {
+            "id": "408fdf4b2e6871fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Procedural.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procedural"
+            }
+          },
+          {
+            "id": "7b15ec9e6510d7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Modèles et réseaux/Modèle OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modèle OSI"
+            }
+          },
+          {
+            "id": "b5ee657a8d18aad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Modèles et réseaux/Équipement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Équipement"
+            }
+          },
+          {
+            "id": "e1817f20c04f815f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Area Networks/Area Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Area Networks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a39790405e1778ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a7a1c2528f9023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d88736ea7c7d4a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d5ff7861c043e33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c1d659ea50ab5a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ea2608f3ca8b05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0271cdbc80b7e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722b854df35a42e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "S3/APP4/Transferts/JSP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JSP"
+            }
+          },
+          {
+            "id": "6719a16da16a3aba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "S3/APP4/Transferts/JSP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JSP"
+            }
+          },
+          {
+            "id": "bdc047e3fe863faf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e413b345b871e29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "S3/APP4/Transferts/JSP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JSP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d88736ea7c7d4a8",
+  "lastOpenFiles": [
+    "S3",
+    "S3/APP4/Procedural.md",
+    "S3/APP4/Transferts/JSP.md",
+    "S3/APP4/Area Networks/Topologie.md",
+    "S3/APP4/Area Networks/Area Networks.md",
+    "S3/APP4/Ethernet/Standard CAT.md",
+    "S3/APP4/Transferts",
+    "S3/APP4/Ethernet/Connecteurs physique.md",
+    "Media/Pasted image 20250618101230.png",
+    "S3/APP4/Modèles et réseaux/Modèle TCP-IP.md",
+    "S3/APP4/Modèles et réseaux/Modèle OSI.md",
+    "S3/APP4/Modèles et réseaux/Équipement.md",
+    "Media",
+    "Media/Pasted image 20250618095437.png",
+    "S3/APP4/Area Networks",
+    "S3/APP4/Ethernet",
+    "S3/APP4/Modèles et réseaux",
+    "Welcome.md",
+    "Modèle TCP/IP 1.md",
+    "Modèle TCP/IP.md",
+    "Modèle TCP/Untitled.md",
+    "Modèle TCP",
+    "S3/APP4"
+  ]
+}
