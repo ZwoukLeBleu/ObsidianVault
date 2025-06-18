@@ -1,4 +1,4 @@
-{Cat}egory 1-8 
+(Cat)egory 1-8 
 
 
 | NOM     | VITESSE   | DISTANCE |

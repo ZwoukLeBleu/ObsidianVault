@@ -23,3 +23,13 @@
 
 [[Topologie]]
 [[Area Networks]]
+
+
+Dans un LAN Ethernet, la transmission se fait:
+- Serie
+- Synchrone
+- Half-Duplex
+- a
+
+
+

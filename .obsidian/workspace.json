@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e1817f20c04f815f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/APP4/Trames/Adresse MAC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adresse MAC"
+            }
+          },
+          {
             "id": "775aaa4d9a7c4c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/APP4/Transferts/JSP.md",
+                "file": "S3/APP4/Transmission Physique/Sans-fil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSP"
+              "title": "Sans-fil"
             }
           },
           {
@@ -61,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Équipement"
-            }
-          },
-          {
-            "id": "e1817f20c04f815f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3/APP4/Area Networks/Area Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Area Networks"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/APP4/Transferts/JSP.md",
+                "file": "S3/APP4/Trames/Adresse MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JSP"
+              "title": "Backlinks for Adresse MAC"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/APP4/Transferts/JSP.md",
+                "file": "S3/APP4/Trames/Adresse MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JSP"
+              "title": "Outgoing links from Adresse MAC"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/APP4/Transferts/JSP.md",
+                "file": "S3/APP4/Trames/Adresse MAC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JSP"
+              "title": "Outline of Adresse MAC"
             }
           }
         ]
@@ -226,18 +226,36 @@
   },
   "active": "8d88736ea7c7d4a8",
   "lastOpenFiles": [
-    "S3",
-    "S3/APP4/Procedural.md",
-    "S3/APP4/Transferts/JSP.md",
-    "S3/APP4/Area Networks/Topologie.md",
-    "S3/APP4/Area Networks/Area Networks.md",
     "S3/APP4/Ethernet/Standard CAT.md",
-    "S3/APP4/Transferts",
-    "S3/APP4/Ethernet/Connecteurs physique.md",
-    "Media/Pasted image 20250618101230.png",
+    "S3/APP4/Procedural.md",
+    "S3/APP4/Modèles et réseaux/Équipement.md",
     "S3/APP4/Modèles et réseaux/Modèle TCP-IP.md",
     "S3/APP4/Modèles et réseaux/Modèle OSI.md",
-    "S3/APP4/Modèles et réseaux/Équipement.md",
+    "S3/APP4/Trames/Adresse MAC.md",
+    "S3/APP4/Trames/Trame idk.md",
+    "S3/APP4/Transmission Physique/Modulation.md",
+    "S3/APP4/Trames",
+    "S3/APP4/Transmission Physique/Mode de transfers.md",
+    "S3/APP4/Ethernet/Connecteurs physique.md",
+    "S3/APP4/Transmission Physique/Sans-fil.md",
+    "S3/APP4/Transmission Physique/Twisted Pair.md",
+    "S3/APP4/Transmission Physique/Représentation de bit.md",
+    "Media/Pasted image 20250618105927.png",
+    "S3/APP4/Transmission Physique/Cuivre.md",
+    "S3/APP4/Transmission Physique/Fibre Optique.md",
+    "S3/APP4/Transmission/Truc TDM.md",
+    "S3/APP4/Transmission Physique/Untitled",
+    "S3/APP4/Transmission/Commutation.md",
+    "JSP.md",
+    "S3/APP4/Area Networks/Area Networks.md",
+    "Media/Pasted image 20250618110837.png",
+    "Media/Pasted image 20250618110001.png",
+    "S3/APP4/Transmission Physique",
+    "S3/APP4/Transmission",
+    "S3",
+    "S3/APP4/Area Networks/Topologie.md",
+    "S3/APP4/Transferts",
+    "Media/Pasted image 20250618101230.png",
     "Media",
     "Media/Pasted image 20250618095437.png",
     "S3/APP4/Area Networks",
@@ -246,8 +264,6 @@
     "Welcome.md",
     "Modèle TCP/IP 1.md",
     "Modèle TCP/IP.md",
-    "Modèle TCP/Untitled.md",
-    "Modèle TCP",
-    "S3/APP4"
+    "Modèle TCP/Untitled.md"
   ]
 }
