@@ -1,5 +1,7 @@
+Il est recommandé de ne pas dépasser 100m de cable sans répéteur
+
 ## UTP
-Unshielded Twisted Pair
+Un-shielded Twisted Pair
 ![[Pasted image 20250618105927.png|200x200]]
 ## STP
 Shielded Twisted Pair

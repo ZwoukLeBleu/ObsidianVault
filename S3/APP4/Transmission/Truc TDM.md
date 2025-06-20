@@ -5,17 +5,17 @@ Pour chaque utilisateur, on lui assigne un *timeslot*. On dirait que c'est reli√
 
 ## TDM
 Time-Division Multiplex
-en secondes
+En secondes
 [[Commutation|Commutation de circuit]]
 
 ## FDM
 Frequency-Division Multiplex
-En Herz
+En Hertz
 [[Commutation|Commutation de circuit]]
 
 ## WDM
 Wavelength-Division Multiplex
-En Nanometre
+En Nanom√®tre
 
 ## Statistique
 ?
