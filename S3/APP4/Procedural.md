@@ -33,3 +33,5 @@ Dans un LAN Ethernet, la transmission se fait:
 
 
 
+
+Probabilité est unifirme dans l'intervalle $0\leq n < 2^n$
