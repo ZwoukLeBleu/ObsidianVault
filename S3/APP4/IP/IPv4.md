@@ -1,7 +1,7 @@
 La *Internet Header Length (IHL)* est en chunks de 32 bits, soit 4 bytes. Il est, au minimum, là 5 fois.
 Le type de service (?) est pour identifier la qualité du paquet, mais est souvent ignoré
 
-### Taille maximal (16 bits)
+### Taille maximal (16 bits, MTU)
 La taille maximal d'un paquet IPv4 est de 64 kilobytes puisque la représentation est représenté par 16 bits. De ce, $2^{16} = 65536$
 
 ### DF (1 bit)
@@ -32,5 +32,7 @@ Fait juste dire si un paquet est bon ou non. Il ne sera pas transférée, ni cor
 
 # Masques
 Lorsqu'on prend une adresse IP et l'on applique un *&* logique par dessus (masque), on obtient l'adresse réseau.
+
+
 
 

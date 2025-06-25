@@ -8,3 +8,7 @@ Si on veux sauver du temps:
 $$(1-\varepsilon)^N \approx 1-N*\varepsilon$$
 $$N\varepsilon<<1$$
 
+
+
+Rendement?:
+$$\dfrac{L}{L+H}$$

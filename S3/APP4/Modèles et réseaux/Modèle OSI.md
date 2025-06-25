@@ -1,4 +1,4 @@
-Créé par ISO. Contient 7 couches. Il n'est pas actuellement utilisé en pratique, mais est plutot le standard des modèles (surpasse le [[Modèle TCP-IP]])
+Créé par ISO. Contient 7 couches. Il n'est pas actuellement utilisé en pratique, mais est plutôt le standard des modèles (surpasse le [[Modèle TCP-IP]]). S'attarde plus aux fonctions des couches, plutôt que leurs protocoles
 
 | NUMERO | COUCHE               | FONCTION                                                       |
 | ------ | -------------------- | -------------------------------------------------------------- |
