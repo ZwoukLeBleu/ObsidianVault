@@ -4,7 +4,7 @@ $sin(\omega t+kz)$, ou kz=déplacement
 1MHz
 Cable [[Coaxial]]
 
-## Prototype 2
+	## Prototype 2
 10MHz
 Connecteur RG58u
 Impedence des cartes de $50 \Omega$
