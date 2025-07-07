@@ -1,4 +1,4 @@
-## Equations:
+ ## Equations:
 $$v(t,z)=Asin(\omega t \pm kz)$$$$\dfrac{\delta ^2f}{\delta x^2}=\dfrac{1}{v^2}\cdot \dfrac{\delta ^2f}{\delta t^2}$$
 *Variables...*
  - $\beta$ : Amortissement (${m/s}^{-1}$)
