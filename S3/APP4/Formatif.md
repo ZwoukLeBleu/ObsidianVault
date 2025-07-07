@@ -17,8 +17,7 @@ Manchester peut etre transmit plus loin que RTZ, puisque on mesure un bit en fon
 Fibre optique multimode 
 
 -- --
-### e)
-idk
+### e) - idk
 
 -- --
 -- --
@@ -26,20 +25,18 @@ idk
 
 
 # 2.
-### a)
+### a) - idk
 
 -- --
 ### b)
 100mpbs
-idk
 
 -- --
 ### c)
 Une ligne/bus, puisque une connection devra etre coupé pour ne pas faire de boucles infini.
 
 -- --
-### d)
-idk
+### d) - idk
 
 -- --
 ### e)
@@ -102,14 +99,14 @@ Devient alors: $11010100000$
 	Une adresse IP privé est une adresse qui n'a le droit d'être accèdé que par le réseau local qui l'entoure (IPv4). Les adresses publiques, elles, peuvent être trouvé via routage sur internet (IPv4 et IPv6)
 
 -- --
-### c)
+### c) - idk
 
 -- -- 
 ### d)
 Le routage hiérarchique permet de savoir déjà par quel préfixe commence plusieurs addresses dans un réseau donnée. Cela fait en sorte que les routeurs on, pour la même information, besoin de moins d'espace de stockage et d'envoie/réception, ce qui rend les protocoles plus efficace.
 
 -- --
-### e)
+### e) - idk
 arrange toi buddy
 
 -- --
@@ -117,16 +114,13 @@ arrange toi buddy
 Non, chaque calculs de Dijsktra sont effectué individuellement par chaque routeurs.
 
 -- --
-### g)
-idk
+### g) - idk
 
 -- --
-### h)
-idk
+### h) - idk
 
 -- --
-### i)
-idk
+### i) - idk
 
 -- --
 
@@ -142,10 +136,33 @@ s0/1 = 192.168.1.*5*/30
 
 
 # 4.
-### a)
+### a) - idk
 
 ### b)
-idk
+*Expliciter le processus de fragmentation d’un paquet IPv4 de 2048 octets dont l’ID est
+123456789, généré dans un réseau 1 et destiné à un réseau 3 via le réseau 2. On a :
+Réseau 1 : MTU=3000, Réseau 2 : MTU = 1500 octets et Réseau 3 : MTU = 576 octets. Il
+faut indiquer l'offset, le drapeau MF et le champ longueur*
+Offsets = Length/8
+R2:
+
+| Length | ID        | MF  | Offset |
+| ------ | --------- | --- | ------ |
+| 1480   | 123456789 | 1   | 0      |
+
+| Length | ID        | MF  | Offset |
+| ------ | --------- | --- | ------ |
+| 548    | 123456789 | 0   | 185    |
+
+R3:
+
+| Length | ID        | MF  | Offset |
+| ------ | --------- | --- | ------ |
+| 552    | 123456789 | 1   | 0      |
+
+| Length | ID        | MF  | Offset |
+| ------ | --------- | --- | ------ |
+| 552    | 123456789 | 1   | 69     |
 
 -- --
 
@@ -174,7 +191,7 @@ peut etre
 
 
 # 5.
-### a)
+### a) - idk
 idk
 
 -- --
@@ -199,7 +216,27 @@ Toute le paquet (header et données)
 
 -- --
 ### e)
-idk
+$M=120Ko,$
+$L=512o=\dfrac{1}{2}Ko$
+$N=M/L=120/0.5 \equiv \dfrac{120*1024}{512}$
+
+$RTT=t_{tr}+t_p+t_p+t_a$,          où $t_{tr}$ est le temps de transmission de donnée ($\dfrac{L+H}{D_1}$),
+						$t_p$ est le temps de propagation,
+						$t_a$ est le temps de transmission de l'ACK
+
+$\dfrac{514+20+20}{8_d}*8_b$,   où $8_b$ provient de la transformation de byte à bits, 
+			$8_d$ provient du débit (8Mbps)
+
+$RTT = 34.2ms$
+$t_{tr}=0.554ms$
+Seuil de congestion = $RTT/t_{tr}=61$
+
+Slow Start: 1 2 3 8 16 32
+1 2 4 8 16 32 64*
+1 2 4 8 16 32 32+1 32+1+1 32+1...+1
+
+Donc, il y a 15 allez-retours (RTT, Return Trip Time), soit $15*34.2ms=513ms$
+*je comprend pas! cool!*
 
 -- --
 -- --
@@ -207,8 +244,7 @@ idk
 
 
 # 6.
-### a)
-idk
+### a) - idk
 
 -- --
 ### b)
@@ -220,8 +256,7 @@ Par flux?
 IMAP pour du texte, POP3 pour des pieces jointes
 
 -- --
-### d)
-idk
+### d) - idk
 
 -- --
 ### e)

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82bbfc2d62ed24ca",
+        "id": "6f6ca7f629720f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "775aaa4d9a7c4c88",
+            "id": "1b1a697a66370e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3/APP5/Procedural 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Procedural 2"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 300
   },
   "right": {
     "id": "1ea2608f3ca8b05c",
@@ -94,8 +90,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/APP5/Procedural 1.md",
-                "collapseAll": false,
+                "file": "S3/APP4/Procedural.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procedural 1"
+              "title": "Backlinks for Procedural"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/APP5/Procedural 1.md",
+                "file": "S3/APP4/Procedural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Procedural 1"
+              "title": "Outgoing links from Procedural"
             }
           },
           {
@@ -142,24 +138,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/APP5/Procedural 2.md",
-                "followCursor": false,
-                "showSearch": false,
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Procedural 2"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5f0a7fe06e887391",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "fbb260e9fc69a036",
+        "id": "b05bbde46298dd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "cfae4722b5734b89",
+            "id": "396c5879149464d3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -174,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 424.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,54 +194,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "775aaa4d9a7c4c88",
+  "active": "8d88736ea7c7d4a8",
   "lastOpenFiles": [
-    "S3/APP5/Procedural 1.md",
-    "S3/APP5/Procedural 2.md",
-    "S3/APP5/Laboratoire.md",
-    "S3/GIN333/Cours 5/Cours 5 - Nombre complexe et algèbre abstraite.md",
-    "S3/APP5/Tutorat.md",
-    "S3/GIN333/Cours 5/Nombre complexe.md",
+    "Media/Pasted image 20250707093152.png",
+    "Media/Pasted image 20250707094912.png",
+    "Media/Pasted image 20250707094215.png",
+    "Media/Pasted image 20250702100745.png",
     "Untitled.canvas",
-    "Pasted image 20250702100745.png",
-    "S3/APP4/Transmission Physique/Sans-fil.md",
+    "S3/APP5/Procedural 2.md",
+    "S3/APP5/Procedural 1.md",
+    "S3/APP5/Laboratoire.md",
+    "S3/APP5/formulaire.pdf",
+    "S3/APP5/Formulaire.png",
+    "S3/APP5/Formulaire.md",
+    "Media/Pasted image 20250707094800.png",
+    "Media/Pasted image 20250707094253.png",
+    "S3/APP5/Tutorat.md",
+    "S3/GIN333/Cours 4/Detéction et correction d'erreurs.md",
     "S3/GIN333/Cours 5/Onde.md",
-    "Media/Pasted image 20250702093810.png",
+    "S3/GIN333/Cours 5/Nombre complexe.md",
+    "S3/GIN333/Cours 5/Cours 5 - Nombre complexe et algèbre abstraite.md",
+    "S3/GIN333/Cours 5",
+    "S3/APP5",
+    "S3/APP4/Transmission Physique/Coaxial.md",
     "Media/Pasted image 20250702094552.png",
     "Media/Pasted image 20250702094300.png",
     "Media/Pasted image 20250702093821.png",
-    "Media/Pasted image 20250702092334.png",
-    "S3/GIN333/Cours 5",
-    "S3/APP4/Transmission Physique/Mode de transfers.md",
-    "S3/APP4/Transmission Physique/Coaxial.md",
-    "S3/APP4/Transmission Physique/Cuivre.md",
-    "S3/APP4/Transmission Physique/Twisted Pair.md",
-    "S3/GIN333/Cours 3/Cours 3 - Set theory (generalization).md",
-    "S3/APP5",
-    "S3/APP4/Routage/Routage.md",
-    "S3/APP4/Routage/RIP.md",
-    "S3/APP4/Routage/OSPF.md",
-    "S3/APP4/Routage",
-    "S3/APP4/IP/IPv6.md",
-    "S3/APP4/IP/IPv4.md",
-    "S3/APP4/IP/Fragmentation.md",
-    "S3/APP4/IP/Classes IP.md",
-    "S3/APP4/IP/CIDR.md",
-    "S3/APP4/IP",
+    "S3/GIN333/Cours 4/Erreurs dans un système informatisé.md",
+    "S3/GIN333/Cours 4/Systematisation du traitement d'erreur.md",
+    "S3/GIN333/Cours 4/Sous-groupes adjoints (cosets) et erreurs.md",
+    "S3/GIN333/Cours 4/Cours 4 - Détection et correction d'erreurs.md",
     "S3/APP4/Formatif.md",
     "S3/APP4/Fermeture.md",
-    "S3/APP4/Erreurs/Erreurs.md",
-    "S3/APP4/Erreurs",
+    "S3/APP4/Modèles et réseaux/Modèle TCP-IP.md",
+    "S3/APP4/Area Networks/Area Networks.md",
+    "S3/APP4/Formules.md",
     "S3/APP4/CSMA.md",
-    "Media/Pasted image 20250620114058.png",
-    "Media/Pasted image 20250620105533.png",
-    "S3/APP2",
-    "S3/GIN333/Cours 3/Groupes Cycliques.md",
-    "S3/APP4/Trames",
-    "Media/Pasted image 20250618105927.png",
-    "S3/APP4/Transmission Physique/Untitled",
-    "Media/Pasted image 20250618110837.png",
-    "S3/APP4/Transmission Physique",
-    "S3/APP4/Transmission"
+    "S3/APP4/Modèles et réseaux/Modèle OSI.md",
+    "S3/APP4/UDP.md",
+    "S3/APP4/TCP.md",
+    "S3/APP4/Erreurs/Erreurs.md",
+    "S3/APP4/IP/IPv4.md",
+    "S3/APP4/Routage",
+    "S3/APP4/IP",
+    "S3/APP4/Erreurs",
+    "S3/GIN333/Cours 4",
+    "S3/GIN333/Cours 3",
+    "S3/GIN333",
+    "S3/APP2"
   ]
 }
