@@ -3,7 +3,7 @@
 - ==Jaune== = B
 - ***Blanc*** = C
 
-- $0.78\cdot c = 2.34\cdot10^8m/s$ = vitesse de propagation
+- $0.66\cdot c = 1.98\cdot10^8m/s$ = vitesse de propagation
 
 
 ## Temporel
@@ -14,27 +14,27 @@ $$\Delta x = t\cdot v$$
 'C' est sur la résistance
 
 $\Delta t = 67.40ns$ entre impulsion 1 et reflection 1
-$\implies 2.34\cdot10^8\cdot 67.40\cdot10^{-9}$
-$$\Delta x\approx 15.7716m$$
+$\implies 1.98\cdot10^8\cdot 67.40\cdot10^{-9}$
+$$\Delta x\approx 13.3452m$$
 
 #### A --> C
 'B' est sur la résistance
 
 $\Delta t = 58.00ns$ entre impulsion 1 et reflection 1
-$\implies 2.34\cdot10^8\cdot 58.00\cdot10^{-9}$
-$$\Delta x\approx 13.5720m$$
+$\implies 1.98\cdot10^8\cdot 58.00\cdot10^{-9}$
+$$\Delta x\approx 11.4840m$$
 
 #### B --> C
 'A' est sur la résistance
 
 $\Delta t = 51.60ns$ entre impulsion 1 et reflection 1
-$\implies 2.34\cdot10^8\cdot 51.60\cdot10^{-9}$
-$$\Delta x\approx 12.0744m$$
+$\implies 1.98\cdot10^8\cdot 51.60\cdot10^{-9}$
+$$\Delta x\approx 10.2168m$$
 
 ### Résultats approximatif
-$A + B +0C = 15.77$
-$A + 0B+ C = 13.57$
-$0A + B + C = 12.07$
+$A + B +0C = 13.3452$
+$A + 0B+ C = 11.4840$
+$0A + B + C = 10.2168$
 
 Avec *Gauss-Jordan*, il est possible de trouver a, b et c :
 
@@ -44,12 +44,39 @@ Avec *Gauss-Jordan*, il est possible de trouver a, b et c :
 | 1   | 0   | 1   | 13.57      |
 | 0   | 1   | 1   | 12.07      |
 
-$A = 8.6346m$
-$B = 7.137m$
-$C = 4.9374m$
+$A = 7.3062m$
+$B = 6.0390m$
+$C = 4.1778m$
 
 
 ## Fréquentielle
 $$\hat{V}(z) = \hat{V}^+e^{-j\beta z} + \hat{V}^-e^{j\beta z}$$$$\hat{I}(z) = \dfrac{\hat{V}^+}{Z_c}e^{-j\beta z} - \dfrac{\hat{V}^-}{Z_c}e^{j\beta z}$$, où $\beta = \dfrac{\omega}{v}rads/m$
 
-Ainsi que$$$$
+
+---
+aaa
+$$\lambda = \dfrac{v}{f} = v\cdot T$$
+
+$v = 1.98\cdot10^8m/s$
+
+
+#### A (isolé)
+$f=6.6*10^6Hz$, alors
+$$\lambda = \dfrac{1.98\cdot10^8}{6.6\cdot10^6}\approx 30.0000m$$
+$$\mathscr{L}=\dfrac{\lambda}{4}\approx7.5m$$
+
+#### B (isolé)
+$f=8.08*10^6Hz$, alors
+$$\lambda = \dfrac{1.98\cdot10^8}{8.08\cdot10^6}\approx 24.5040m$$$$\mathscr{L}=\dfrac{\lambda}{4}\approx6.126m$$
+
+#### C (isolé)
+$f=11.46*10^6Hz$, alors
+$$\lambda = \dfrac{1.98\cdot10^8}{11.46\cdot10^6}\approx 17.255m$$$$\mathscr{L}=\dfrac{\lambda}{4}\approx4.319m$$
+
+## Conclusion
+
+| Cable | Temporel (m) | Fréquentiel (m) |
+| ----- | ------------ | --------------- |
+| A     | 7.0362       | 7.500           |
+| B     | 6.0390       | 6.126           |
+| C     | 4.1778       | 4.319           |

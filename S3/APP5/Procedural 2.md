@@ -56,7 +56,7 @@ Si $Z_{in} = Z_c$ alors avec la formule vu [[S3/APP5/Procedural 2#a. Coefficient
 ## E3
 
 Si $\beta = \dfrac{2\pi}{\lambda}$, et que $\mathscr{L} = \dfrac{\lambda}{4}$alors:
-$$v = \dfrac{\omega}{\beta} = \dfrac{2\pi f}{\beta}$$$$v = \dfrac{\lambda}{t} = \lambda\cdot f$$
+$$v = \dfrac{\omega}{\beta} = \dfrac{2\pi f}{\beta}$$$$v = \dfrac{\lambda}{T} = \lambda\cdot f$$
 $$\hat{Z}_{in}=Z_c\dfrac{1+\hat{\Gamma}_L}{1-\hat{\Gamma}_L}\cdot e^{-j2\beta\mathscr{L}}$$Puisque $e^{-j2\beta\mathscr{L}} = e^{-j\cdot2\cdot\frac{2\pi}{\lambda}\frac{\lambda}{4}} = e^{-j\pi} = -1$, et que $\hat{\Gamma}_L = \dfrac{\hat{Z}_L-Z_c}{\hat{Z}_L+Z_c}$, alors : $$\hat{Z}_{in}=-1\cdot Z_c\dfrac{1-\frac{\hat{Z}_L-Z_c}{\hat{Z}_L+Z_c}}{1+\frac{\hat{Z}_L-Z_c}{\hat{Z}_L+Z_c}}$$$$\implies \hat{Z}_{in} = Z_c\dfrac{\hat{Z}_c+Z_c-\hat{Z}_c+Z_c}{\hat{Z}_L+Z_c+\hat{Z}_L-Z_L} = \dfrac{2Z_c}{2\hat{Z}_L}$$$$\implies Z_{in} = \dfrac{Z_c^2}{\hat{Z}_L}$$
 ## E4
 
