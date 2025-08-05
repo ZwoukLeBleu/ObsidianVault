@@ -33,7 +33,7 @@ $$\implies 2^{16}\equiv1\mod 17$$
 Si on a une transition d'un nombre autre que 1 vers 1, alors on est certain que le nombre est composé (pas premier). Cependant, si on n'a jamais de 1, alors il y a $\dfrac{1}{4}$ chance que ce soit un faux-positif.
 
 ### d. 
-La distance moyenne pour un nombre premier $W$ est $W+\ln (W)$.
+La distance moyenne pour un nombre premier $W$ est $ln (W)$.
 
 Soit $n=30, \qquad 2x3x5$
 Il reste alors $\{1,7,11,13,17,19,23,19\}$

@@ -1,0 +1,9 @@
+
+MIN
+MAX
+COUNT
+SUM
+AVERAGE
+MEAN
+
+z

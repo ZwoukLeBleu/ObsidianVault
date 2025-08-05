@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/GIF333/Cours 6/Cours 6.md",
+                "file": "S3/APP2/Fonction d'agregation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 6"
+              "title": "Fonction d'agregation"
             }
           }
         ]
@@ -210,6 +210,24 @@
   },
   "active": "d3063b0838cb433a",
   "lastOpenFiles": [
+    "S3/APP2/Algèbre relationnel.md",
+    "S3/APP2/Fonction d'agregation.md",
+    "S3/APP2/Formes normales.md",
+    "S3/APP2/Tables.md",
+    "S3/APP2/B-Tree.md",
+    "S3/APP2/Types de liens.md",
+    "S3/APP2/Consult.md",
+    "S3/APP6/Procedural 2.md",
+    "S3/APP6/Procedural.md",
+    "S3/GIF333/Cours 3/Sous-groupes.md",
+    "S3/GIF333/Cours 3/Cours 3 - Set theory (generalization).md",
+    "S3/GIF333/Cours 3/Groupes Cycliques.md",
+    "S3/GIF333/Cours 3/Isomorphisme.md",
+    "S3/GIF333/Cours 3/Permutations.md",
+    "S3/APP6/Méthode ρ de Pollard.md",
+    "S3/APP5/Tutorat.md",
+    "S3/APP6/Tutorat.md",
+    "S3/GIF333/Cours 6/Cours 6.md",
     "S3/GIF333/Cours 6/Book1.xlsx",
     "S3/GIF333/Cours 6/BBDE4000",
     "S3/GIF333/Cours 6/~$Book1.xlsx",
@@ -217,15 +235,12 @@
     "Media/Pasted image 20250722135552.png",
     "Media/Pasted image 20250722135206.png",
     "S3/GIF333/Cours 6",
-    "S3/APP6/Tutorat.md",
-    "S3/GIF333/Cours 6/Cours 6.md",
     "S3/APP6.md",
     "S3/APP6",
     "S3/APP5/formulaire.pdf",
     "S3/APP5/Procedural 2.md",
     "S3/APP5/Procedural 1.md",
     "S3/APP5/Problematique.md",
-    "S3/APP5/Tutorat.md",
     "S3/APP5/Tutorat Fermeture.md",
     "S3/APP5/guideetudiant_e25.pdf",
     "Media/Pasted image 20250707094912.png",
@@ -239,23 +254,8 @@
     "S3/GIF333/Cours 5/Nombre complexe.md",
     "Untitled.canvas",
     "Pasted image 20250702100745.png",
-    "S3/APP4/Transmission Physique/Sans-fil.md",
-    "S3/GIF333/Cours 5/Onde.md",
     "S3/GIF333/Cours 5",
-    "S3/APP4/Transmission Physique/Mode de transfers.md",
-    "S3/APP4/Transmission Physique/Coaxial.md",
-    "S3/APP4/Transmission Physique/Cuivre.md",
-    "S3/APP4/Transmission Physique/Twisted Pair.md",
-    "S3/GIF333/Cours 3/Cours 3 - Set theory (generalization).md",
     "S3/APP5",
-    "S3/APP4/Routage/Routage.md",
-    "S3/APP4/Routage/RIP.md",
-    "S3/APP4/Routage/OSPF.md",
-    "S3/APP4/Routage",
-    "S3/APP4/IP/IPv6.md",
-    "S3/APP4/IP/IPv4.md",
-    "S3/APP4/IP/Fragmentation.md",
-    "S3/APP4/IP/Classes IP.md",
-    "S3/APP4/IP"
+    "S3/APP4/Routage"
   ]
 }
