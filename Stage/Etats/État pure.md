@@ -1,0 +1,1 @@
+Un etat pure est un etat qui peut etre decrit par le vecteur $\ket{psi$

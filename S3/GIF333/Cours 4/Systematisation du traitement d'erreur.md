@@ -54,3 +54,10 @@ G est composée d’une matrice identité m × m (Im), à laquelle on adjoint un
 
 arrange toi 
 ![[Pasted image 20250617100632.png]]
+
+
+
+
+
+Le nombre de cosets disctinct (?) est 
+$$\dfrac{2^n}{2^m}$$, ou $n$ est le nombre de possibilites, et $m$ est le nombre de bits 

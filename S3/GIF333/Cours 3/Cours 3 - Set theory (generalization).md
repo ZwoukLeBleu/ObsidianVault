@@ -3,6 +3,3 @@
 [[Groupes Cycliques]]
 [[Sous-groupes]]
 [[Permutations]]
-
-[[Lectures]]
-[[Exercices]]

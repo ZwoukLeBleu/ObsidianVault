@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3063b0838cb433a",
+            "id": "187a42c581008f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/APP2/Fonction d'agregation.md",
+                "file": "Stage/General/Règle de Born.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fonction d'agregation"
+              "title": "Règle de Born"
+            }
+          },
+          {
+            "id": "ccafe3e5fb2dc21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Portes quantique/Multiples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiples"
+            }
+          },
+          {
+            "id": "70a39201d3960217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Etats/Entanglement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entanglement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/APP5/Problematique.md",
+                "file": "Stage/Portes quantique/Multiples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problematique"
+              "title": "Outline of Multiples"
             }
           },
           {
@@ -172,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "fbb260e9fc69a036",
@@ -194,10 +223,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -205,57 +235,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d3063b0838cb433a",
+  "active": "ccafe3e5fb2dc21d",
   "lastOpenFiles": [
-    "S3/APP2/Algèbre relationnel.md",
-    "S3/APP2/Fonction d'agregation.md",
-    "S3/APP2/Formes normales.md",
-    "S3/APP2/Tables.md",
-    "S3/APP2/B-Tree.md",
-    "S3/APP2/Types de liens.md",
-    "S3/APP2/Consult.md",
-    "S3/APP6/Procedural 2.md",
-    "S3/APP6/Procedural.md",
-    "S3/GIF333/Cours 3/Sous-groupes.md",
     "S3/GIF333/Cours 3/Cours 3 - Set theory (generalization).md",
-    "S3/GIF333/Cours 3/Groupes Cycliques.md",
-    "S3/GIF333/Cours 3/Isomorphisme.md",
-    "S3/GIF333/Cours 3/Permutations.md",
-    "S3/APP6/Méthode ρ de Pollard.md",
-    "S3/APP5/Tutorat.md",
-    "S3/APP6/Tutorat.md",
-    "S3/GIF333/Cours 6/Cours 6.md",
+    "Exercices.md",
+    "Stage/General/Standards quantiques.md",
+    "S3/GIF333/Cours 5/Nombre complexe.md",
+    "Stage/Portes quantique/1 qubit.md",
+    "Stage/Etats/État pure.md",
+    "Stage/General/Q-Sphere.md",
+    "Stage/General/Règle de Born.md",
+    "Stage/Algorithmes/Grover.md",
+    "S3/APP4/Fermeture.md",
+    "S3/APP4/CSMA.md",
+    "S3/APP4/Transmission Physique/Twisted Pair.md",
+    "S3/APP4/Transmission Physique/Sans-fil.md",
+    "S3/APP4/Transmission Physique/Représentation de bit.md",
+    "S3/APP4/Transmission Physique/Mode de transfers.md",
+    "S3/APP4/Transmission Physique/Fibre Optique.md",
+    "S3/APP4/Transmission Physique/Modulation.md",
+    "S3/APP4/Erreurs/Erreurs.md",
+    "S3/APP4/Area Networks/Topologie.md",
+    "S3/APP4/Area Networks/Area Networks.md",
+    "Stage/Algorithmes/Deutch-Jozsa.md",
+    "Stage/Algorithmes/Oracle.md",
+    "Stage/Portes quantique/2 qubits.md",
+    "Stage/Portes quantique/Multiples.md",
+    "Stage/Etats/Braket notation.md",
+    "Stage/Etats/Entanglement.md",
+    "Media/Pasted image 20250903101354.png",
+    "Media/kevin the cube.png",
+    "Media/Pasted image 20250902152054.png",
+    "Media/Pasted image 20250707094912.png",
+    "Media/Pasted image 20250702093810.png",
+    "Media/Pasted image 20250617100250.png",
+    "Media/Pasted image 20250617100632.png",
+    "Media/Pasted image 20250902152302.png",
+    "Media/Pasted image 20250902154323.png",
+    "Media/Pasted image 20250903094833.png",
+    "Stage/Algorithmes",
+    "Stage/General",
+    "Stage/Etats",
+    "Stage/Portes quantique",
+    "Stage",
+    "S3/APP3",
     "S3/GIF333/Cours 6/Book1.xlsx",
     "S3/GIF333/Cours 6/BBDE4000",
     "S3/GIF333/Cours 6/~$Book1.xlsx",
-    "Pasted image 20250722141240.png",
-    "Media/Pasted image 20250722135552.png",
-    "Media/Pasted image 20250722135206.png",
     "S3/GIF333/Cours 6",
-    "S3/APP6.md",
-    "S3/APP6",
-    "S3/APP5/formulaire.pdf",
-    "S3/APP5/Procedural 2.md",
-    "S3/APP5/Procedural 1.md",
-    "S3/APP5/Problematique.md",
-    "S3/APP5/Tutorat Fermeture.md",
-    "S3/APP5/guideetudiant_e25.pdf",
-    "Media/Pasted image 20250707094912.png",
-    "Media/Pasted image 20250707094800.png",
-    "Media/Pasted image 20250707094253.png",
-    "Media/Pasted image 20250707094215.png",
-    "Media/Pasted image 20250707093152.png",
-    "Media/Pasted image 20250702100745.png",
-    "S3/APP5/Laboratoire.md",
-    "S3/GIF333/Cours 5/Cours 5 - Nombre complexe et algèbre abstraite.md",
-    "S3/GIF333/Cours 5/Nombre complexe.md",
-    "Untitled.canvas",
-    "Pasted image 20250702100745.png",
-    "S3/GIF333/Cours 5",
-    "S3/APP5",
-    "S3/APP4/Routage"
+    "Untitled.canvas"
   ]
 }
