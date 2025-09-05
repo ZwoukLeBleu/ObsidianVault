@@ -11,7 +11,7 @@ $\mathbb{Z}^*_p$ est un groupe si chacun de ses elements a un inverse:
 - Soit $a \in \mathbb{Z}^*_p$. Supposons que $1<= a <= (p-1)$
 - Supposons que $k$ est l'ordre de $a : a^k \equiv 1\mod p$
 - Alors les nombres $1,a,a^2...a^{k-1} \mod p$ forment un [[Sous-groupes]] de $\mathbb{Z}^*_p$
-- Selon le [[théoreme de Lagrange]] :
+- Selon le théoreme de Lagrange :
 	 $k$ doit etre un facteur de $p-1$
 	 Alors $km=p-1$, pour un certain nombre $m$
 - D'ou $a^{p-1} \equiv a^{km} \equiv (a^k)^m \equiv 1^m \equiv 1\mod p$
@@ -20,7 +20,7 @@ $\mathbb{Z}^*_p$ est un groupe si chacun de ses elements a un inverse:
 
 Donc, $\mathbb{Z}^*_p$ est un groupe!
 
-Selon le [[theoreme de Cauchy]], il existe un $g$ dont l'ordre est $p-1$, alors $\mathbb{Z}^*_p$ est un groupe cyclique.
+Selon le theoreme de Cauchy, il existe un $g$ dont l'ordre est $p-1$, alors $\mathbb{Z}^*_p$ est un groupe cyclique.
 
 
 
@@ -64,7 +64,7 @@ On peut alors reprendre le raisonement utilise pour le petit theoreme de Fermat:
 - ????????
 
 
-La methode de [[Miller-Rabin]] est basee sur le petit theoreme de Fermat:
+La methode de Miller-Rabin est basee sur le petit theoreme de Fermat:
 - $a^{p-1} \equiv 1 \mod p$, alors $a\dfrac{p-1}{a}\equiv \sqrt{1}\mod p$
 - Quelles sont les valeurs possible de $\sqrt{1} \mod p$
 	- On desire : $x^2 \equiv 1 \mod p$

@@ -1,5 +1,5 @@
 Alice (A) veux envoyer son etat $\ket{\phi}_S = \alpha \ket{0}_S+\beta \ket{1}_S$ a Bob (B). Cependant, elle ne peut le faire que par 2 bits classique. 
-Les deux partagent l'etat [[Entanglement|maximalement emmeler]] $\ket{\psi^{00}}_{AB}= \frac{1}{\sqrt2}(\ket{00}_{AB} + \ket{11}_{AB})$
+Les deux partagent l'etat [[Intrication|maximalement emmeler]] $\ket{\psi^{00}}_{AB}= \frac{1}{\sqrt2}(\ket{00}_{AB} + \ket{11}_{AB})$
 
 Etat initial du systeme global:
 ![[Pasted image 20250902152054.png]]

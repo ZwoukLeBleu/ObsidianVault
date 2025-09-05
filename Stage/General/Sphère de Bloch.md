@@ -15,6 +15,7 @@ $$\vec{r} = \begin{pmatrix}
 
 ![[Pasted image 20250902122134.png]]
 
+A partir des [[Standard quantique#Bases|bases quantique]]:
 $$\ket{0}: \theta =0\quad \phi=arb. \implies \begin{pmatrix}
 0 \\
 0 \\
