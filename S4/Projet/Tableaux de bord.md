@@ -1,0 +1,4 @@
+- Ajouter photos
+- Temps prevu VS actuel - Pour caque membre
+- Burndown//de quoi, meme si cest maigre
+- Templater 

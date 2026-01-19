@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "187a42c581008f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/General/Règle de Born.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Règle de Born"
-            }
-          },
-          {
             "id": "ccafe3e5fb2dc21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S4/GEN490/Cours 3.md",
+                "file": "S4/APP1/Consultation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 3"
-            }
-          },
-          {
-            "id": "70a39201d3960217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Etats/Entanglement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entanglement"
+              "title": "Consultation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S4/GEN490/Cours 3.md",
+                "file": "S4/APP1/Consultation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cours 3"
+              "title": "Outline of Consultation"
             }
           },
           {
@@ -223,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +212,18 @@
   },
   "active": "ccafe3e5fb2dc21d",
   "lastOpenFiles": [
-    "Stage/General/Règle de Born.md",
+    "S4/APP1/Seminaire CPU.md",
+    "S4/Projet/Tableaux de bord.md",
     "S4/GEN490/Cours 3.md",
+    "S4/Projet",
+    "S4/APP1/Tutorat 2.md",
+    "S4/APP1/Consultation.md",
+    "Stage/General/Règle de Born.md",
+    "S4/APP1",
+    "S4",
+    "Stage/General/Règle de Born.md",
     "S4/Untitled.md",
     "S4/GEN490",
-    "S4",
     "Stage/General/Operations matricielles.md",
     "Stage/Etats/Etats de base.md",
     "Stage/Etats/Braket notation.md",
@@ -272,11 +250,6 @@
     "Stage/Etats/État pure.md",
     "Stage/Etats/Teleportation.md",
     "Stage/Portes quantique/Vecteur d'etat.md",
-    "Stage/Portes quantique/Unitaire.md",
-    "Stage/Portes quantique/Multiples.md",
-    "Stage/Portes quantique/Hermitien.md",
-    "Stage/General/Sphère de Bloch.md",
-    "Stage/General/Standard quantique.md",
     "Media/Pasted image 20250904115951.png",
     "Media/Pasted image 20250903101354.png",
     "Media/kevin the cube.png",
@@ -285,8 +258,6 @@
     "Stage/Etats",
     "Stage/Portes quantique",
     "Stage",
-    "S3/APP3",
-    "S3/GIF333/Cours 6/Book1.xlsx",
     "Untitled.canvas"
   ]
 }
