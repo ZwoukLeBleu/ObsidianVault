@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/General/Règle de Born.md",
+                "file": "S4/GEN490/Cours 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règle de Born"
+              "title": "Cours 3"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/General/Règle de Born.md",
+                "file": "S4/GEN490/Cours 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Règle de Born"
+              "title": "Outline of Cours 3"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -196,8 +196,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -241,6 +241,11 @@
   },
   "active": "ccafe3e5fb2dc21d",
   "lastOpenFiles": [
+    "Stage/General/Règle de Born.md",
+    "S4/GEN490/Cours 3.md",
+    "S4/Untitled.md",
+    "S4/GEN490",
+    "S4",
     "Stage/General/Operations matricielles.md",
     "Stage/Etats/Etats de base.md",
     "Stage/Etats/Braket notation.md",
@@ -272,9 +277,6 @@
     "Stage/Portes quantique/Hermitien.md",
     "Stage/General/Sphère de Bloch.md",
     "Stage/General/Standard quantique.md",
-    "Stage/General/Rotation sur Bloch.md",
-    "Stage/General/Règle de Born.md",
-    "Stage/General/Q-Sphere.md",
     "Media/Pasted image 20250904115951.png",
     "Media/Pasted image 20250903101354.png",
     "Media/kevin the cube.png",
@@ -285,8 +287,6 @@
     "Stage",
     "S3/APP3",
     "S3/GIF333/Cours 6/Book1.xlsx",
-    "S3/GIF333/Cours 6/BBDE4000",
-    "S3/GIF333/Cours 6/~$Book1.xlsx",
     "Untitled.canvas"
   ]
 }
